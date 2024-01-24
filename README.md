@@ -23,11 +23,17 @@ This Challenge is divided into three parts: data modeling, data engineering, and
 
 Data Modeling
 
+** two files created
+** one using quickdatabasediagrams.com : file name: QuickDBD-EmployeeSQL.png
+** another using the export method in pgAdmin 4 ERD for database : file name: pgAdmin4 ERD Model.png
+
 Inspect the CSV files, and then sketch an Entity Relationship Diagram of the tables. 
 
 ----------------------------------------------
 
 Data Engineering
+
+** file name: employees_schemata.sql
 
 Use the provided information to create a table schema for each of the six CSV files. Be sure to do the following:
 
@@ -42,6 +48,8 @@ Import each CSV file into its corresponding SQL table.
 ----------------------------------------------
 
 Data Analysis
+
+** file name: employees_analysis.sql **
 
 List the employee number, last name, first name, sex, and salary of each employee.
 
